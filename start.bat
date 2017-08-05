@@ -1,0 +1,1 @@
+start /wait iojs --harmony_arrow_functions --harmony_modules --harmony_classes src/index
